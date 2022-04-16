@@ -16,7 +16,7 @@
   position:absolute;
   z-index:0;
 }
-#u894 {
+#u858 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -24,7 +24,7 @@
   width:0px;
   height:0px;
 }
-#u895_div {
+#u859_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -42,7 +42,7 @@
   font-weight:400;
   font-style:normal;
 }
-#u895 {
+#u859 {
   border-width:0px;
   position:absolute;
   left:409px;
@@ -54,20 +54,20 @@
   font-weight:400;
   font-style:normal;
 }
-#u895 .text {
+#u859 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u895_text {
+#u859_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
   visibility:hidden;
 }
-#u896_div {
+#u860_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -88,7 +88,7 @@
   color:rgba(0, 0, 0, 0.647058823529412);
   line-height:22px;
 }
-#u896 {
+#u860 {
   border-width:0px;
   position:absolute;
   left:469px;
@@ -103,19 +103,19 @@
   color:rgba(0, 0, 0, 0.647058823529412);
   line-height:22px;
 }
-#u896 .text {
+#u860 .text {
   position:absolute;
   align-self:flex-start;
   padding:0px 0px 0px 0px;
   box-sizing:border-box;
   width:100%;
 }
-#u896_text {
+#u860_text {
   border-width:0px;
   white-space:nowrap;
   text-transform:none;
 }
-#u897_div {
+#u861_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -135,7 +135,7 @@
   font-size:14px;
   color:#FFFFFF;
 }
-#u897 {
+#u861 {
   border-width:0px;
   position:absolute;
   left:663px;
@@ -149,19 +149,19 @@
   font-size:14px;
   color:#FFFFFF;
 }
-#u897 .text {
+#u861 .text {
   position:absolute;
   align-self:center;
   padding:2px 16px 2px 16px;
   box-sizing:border-box;
   width:100%;
 }
-#u897_text {
+#u861_text {
   border-width:0px;
   white-space:nowrap;
   text-transform:none;
 }
-#u898_img {
+#u862_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -169,7 +169,7 @@
   width:22px;
   height:24px;
 }
-#u898 {
+#u862 {
   border-width:0px;
   position:absolute;
   left:431px;
@@ -183,14 +183,14 @@
   font-size:54px;
   color:#52C41A;
 }
-#u898 .text {
+#u862 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u898_text {
+#u862_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
