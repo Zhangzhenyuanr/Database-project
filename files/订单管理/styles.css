@@ -1488,7 +1488,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le', sans-serif;
+  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le Regular', 'Microsoft Tai Le', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -1504,7 +1504,7 @@
   width:88px;
   height:54px;
   display:flex;
-  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le', sans-serif;
+  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le Regular', 'Microsoft Tai Le', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -1600,7 +1600,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le', sans-serif;
+  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le Regular', 'Microsoft Tai Le', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -1616,7 +1616,7 @@
   width:88px;
   height:54px;
   display:flex;
-  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le', sans-serif;
+  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le Regular', 'Microsoft Tai Le', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -1697,7 +1697,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le', sans-serif;
+  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le Regular', 'Microsoft Tai Le', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -1713,7 +1713,7 @@
   width:88px;
   height:54px;
   display:flex;
-  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le', sans-serif;
+  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le Regular', 'Microsoft Tai Le', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -1809,7 +1809,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le', sans-serif;
+  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le Regular', 'Microsoft Tai Le', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -1825,7 +1825,7 @@
   width:60px;
   height:54px;
   display:flex;
-  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le', sans-serif;
+  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le Regular', 'Microsoft Tai Le', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -2187,7 +2187,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le', sans-serif;
+  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le Regular', 'Microsoft Tai Le', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -2203,7 +2203,7 @@
   width:88px;
   height:54px;
   display:flex;
-  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le', sans-serif;
+  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le Regular', 'Microsoft Tai Le', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -3217,7 +3217,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le', sans-serif;
+  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le Regular', 'Microsoft Tai Le', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -3233,7 +3233,7 @@
   width:60px;
   height:54px;
   display:flex;
-  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le', sans-serif;
+  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le Regular', 'Microsoft Tai Le', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -4278,4 +4278,54 @@
   word-wrap:break-word;
   text-transform:none;
   visibility:hidden;
+}
+#u108_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:78px;
+  height:32px;
+  background:inherit;
+  background-color:rgba(24, 144, 255, 1);
+  border:none;
+  border-radius:4px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Microsoft Tai Le', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#FFFFFF;
+  text-align:left;
+  line-height:22px;
+}
+#u108 {
+  border-width:0px;
+  position:absolute;
+  left:1440px;
+  top:355px;
+  width:78px;
+  height:32px;
+  display:flex;
+  font-family:'Microsoft Tai Le', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#FFFFFF;
+  text-align:left;
+  line-height:22px;
+}
+#u108 .text {
+  position:absolute;
+  align-self:center;
+  padding:0px 16px 0px 16px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u108_text {
+  border-width:0px;
+  white-space:nowrap;
+  text-transform:none;
 }
